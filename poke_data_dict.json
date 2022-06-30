@@ -1,0 +1,68 @@
+[
+    {
+        "Variable": "Pokedex Number",
+        "Code": "dexno",
+        "Datatype": "int",
+        "Description": "Pokemon's Pokedex number"
+    },
+    {
+        "Variable": "Pokemon",
+        "Code": "pokemon",
+        "Datatype": "String",
+        "Description": "Pokemon name"
+    },
+    {
+        "Variable": "Primary Type",
+        "Code": "type1",
+        "Datatype": "String",
+        "Description": "Pokemon's primary type"
+    },
+    {
+        "Variable": "Secondary Type",
+        "Code": "type2",
+        "Datatype": "String",
+        "Description": "Pokemon's secondary type (if applicable)"
+    },
+    {
+        "Variable": "Base Stat Total",
+        "Code": "base_total",
+        "Datatype": "int",
+        "Description": "Pokemon's base stat total"
+    },
+    {
+        "Variable": "Base Hit Points",
+        "Code": "hp",
+        "Datatype": "int",
+        "Description": "Pokemon's base HP stat"
+    },
+    {
+        "Variable": "Base Attack",
+        "Code": "atk",
+        "Datatype": "int",
+        "Description": "Pokemon's base attack stat"
+    },
+    {
+        "Variable": "Base Defense",
+        "Code": "def_",
+        "Datatype": "int",
+        "Description": "Pokemon's base defense stat"
+    },
+    {
+        "Variable": "Base Special Attack",
+        "Code": "sp_atk",
+        "Datatype": "int",
+        "Description": "Pokemon's base special attack stat"
+    },
+    {
+        "Variable": "Base Special Defense",
+        "Code": "sp_def",
+        "Datatype": "int",
+        "Description": "Pokemon's base special defense stat"
+    },
+    {
+        "Variable": "Base Speed",
+        "Code": "speed",
+        "Datatype": "int",
+        "Description": "Pokemon's base speed stat"
+    }
+]
